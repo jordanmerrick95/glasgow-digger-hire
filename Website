@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Glasgow Digger Hire | Operated Mini & Micro Plant Hire</title>
+  <meta name="description" content="Operated small plant hire in Glasgow. Mini diggers, micro diggers, track dumpers and 1 ton dumpers with experienced operators. Operated hire only." />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f6f6f6;
+      color: #222;
+    }
+
+    header {
+      background: #111;
+      color: #fff;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.4rem;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      margin-top: 10px;
+    }
+
+    .badge {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 6px 14px;
+      background: #ffcc00;
+      color: #111;
+      font-weight: bold;
+      border-radius: 20px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 1.9rem;
+      margin-bottom: 30px;
+    }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 25px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    }
+
+    .card h3 {
+      margin-top: 0;
+    }
+
+    .why {
+      background: #fff;
+      padding: 40px 20px;
+    }
+
+    .why ul {
+      max-width: 700px;
+      margin: 20px auto;
+    }
+
+    .cta {
+      background: #ffcc00;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    .cta h2 {
+      margin-top: 0;
+    }
+
+    .cta a {
+      display: inline-block;
+      margin: 10px;
+      padding: 14px 28px;
+      background: #111;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+    }
+
+    form input, form select, form textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      background: #111;
+      color: #ccc;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Glasgow Digger Hire</h1>
+  <p>Operated Mini & Micro Digger Hire</p>
+  <div class="badge">OPERATED / ROUTE HIRE ONLY</div>
+</header>
+
+<div class="container">
+  <h2 class="section-title">Plant Hire With Operator</h2>
+
+  <div class="services">
+    <div class="card">
+      <h3>Micro Diggers</h3>
+      <p>Ideal for tight access, gardens and drainage work.</p>
+      <ul>
+        <li>Fits through gates & doorways</li>
+        <li>Experienced operator included</li>
+        <li>Domestic & trade jobs</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Mini Diggers</h3>
+      <p>Perfect for landscaping, extensions and groundwork.</p>
+      <ul>
+        <li>Multiple bucket options</li>
+        <li>Clean, precise excavation</li>
+        <li>Operated hire only</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Track Dumpers</h3>
+      <p>Move materials safely across rough or soft ground.</p>
+      <ul>
+        <li>High-traction tracked dumpers</li>
+        <li>Ideal for spoil & aggregates</li>
+        <li>Operator supplied</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>1 Ton Dumpers</h3>
+      <p>Compact dumpers for fast site clearance.</p>
+      <ul>
+        <li>Excellent load capacity</li>
+        <li>Landscaping & construction</li>
+        <li>Operated hire only</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why">
+  <h2 class="section-title">Why Choose Glasgow Digger Hire?</h2>
+  <ul>
+    <li>✔ Operated hire only – no self-drive</li>
+    <li>✔ Fully insured & experienced operator</li>
+    <li>✔ Groundworks & landscaping available</li>
+    <li>✔ Domestic & commercial work</li>
+    <li>✔ Glasgow & surrounding areas</li>
+  </ul>
+</div>
+
+<div class="cta">
+  <h2>Get a Fast Quote</h2>
+  <p>Call, WhatsApp or request a quote below</p>
+
+  <form>
+    <input type="text" placeholder="Your name" required>
+    <input type="tel" placeholder="Phone number" required>
+    <input type="text" placeholder="Postcode">
+
+    <select>
+      <option>Micro digger with operator</option>
+      <option>Mini digger with operator</option>
+      <option>Digger & dumper package</option>
+      <option>Groundworks & landscaping</option>
+      <option>Drainage</option>
+      <option>Other</option>
+    </select>
+
+    <textarea placeholder="Brief job description"></textarea>
+    <button type="submit" style="padding:12px;background:#111;color:#fff;font-weight:bold;border:none;border-radius:5px;">
+      Request Quote
+    </button>
+  </form>
+
+  <a href="tel:+447415059181">Call Now</a>
+  <a href="https://wa.me/447415059181">WhatsApp Us</a>
+</div>
+
+<footer>
+  <p>
+    © 2026 Glasgow Digger Hire<br>
+    Operated Mini & Micro Plant Hire<br>
+    Email: jordanmerrick@hotmail.co.uk
+  </p>
+</footer>
+
+</body>
+</html>
